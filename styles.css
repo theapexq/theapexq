@@ -470,7 +470,7 @@ h1 {
     }
 
     .about-text {
-        text-align: center;
+        text-align: justify;
         margin-top: 20px; /* Add top margin for spacing in mobile view */
     }
 
@@ -497,7 +497,7 @@ h1 {
     }
 
     .location-text {
-        text-align: center;
+        text-align: justify;
         margin-bottom: 20px;
     }
 
