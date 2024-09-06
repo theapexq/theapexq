@@ -449,9 +449,6 @@ h1 {
     }
 
     .nav-links {
-       /* flex-direction: column;
-        width: 100%;
-        text-align: center;*/
         display: none;
 
     }
@@ -460,7 +457,7 @@ h1 {
         margin: 10px 0;
     }
     .logo img{
-        margin-right: 55px;
+        margin-right: 57px;
         height: 40px; /* Adjust for smaller screens */
     }
 
