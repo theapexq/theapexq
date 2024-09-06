@@ -457,7 +457,7 @@ h1 {
         margin: 10px 0;
     }
     .logo img{
-        margin-right: 57px;
+        margin-right: 60px;
         height: 40px; /* Adjust for smaller screens */
     }
 
@@ -467,7 +467,7 @@ h1 {
     }
 
     .about-text {
-        text-align: justify;
+        text-align: center;
         margin-top: 20px; /* Add top margin for spacing in mobile view */
     }
 
@@ -500,6 +500,7 @@ h1 {
 
     .location-map iframe {
         height: 250px;
+        align-items: center;
     }
     .services-container {
         flex-direction: column;
