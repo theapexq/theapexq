@@ -500,7 +500,7 @@ h1 {
 
     .location-map iframe {
         height: 250px;
-        align-items: center;
+        float: left;
     }
     .services-container {
         flex-direction: column;
