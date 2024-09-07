@@ -443,7 +443,9 @@ h1 {
     }
 
     .logo img {
-        margin-right: 60px;
+        display: flex;
+        justify-content: center; /* Centers the image horizontally */
+        align-items: center;
         height: 40px; /* Adjust for smaller screens */
     }
 
