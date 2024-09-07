@@ -394,6 +394,10 @@ h1 {
     margin-top: 10px;
 }
 
+.desktop-break {
+    display: inline;
+}
+
 /* General Mobile Responsiveness (max-width: 768px) */
 @media (max-width: 768px) {
 
@@ -509,6 +513,9 @@ h1 {
 
     .footer-contact {
         margin-top: 20px;
+    }
+     .desktop-break {
+        display: none;
     }
 }
 
